@@ -1,5 +1,4 @@
 crepe
 patatas
 haricots rouges
-creme
 fromage
