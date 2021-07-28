@@ -25,4 +25,3 @@ Préparez votre pizza en ajoutant les ananas à la fin. Fixez la pizza et jetez 
 
 MAJ V1.0.02
 J'ai oublié de dire que vous avez pas de race.
-Temps de préparation: 10minutes
