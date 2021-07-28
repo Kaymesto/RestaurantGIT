@@ -2,3 +2,4 @@ crepe
 patatas
 haricots rouges
 fromage
+Temps de préparation: 20minutes
